@@ -4,6 +4,7 @@
 - 参考资料：
     - https://github.com/chongshengzhujue/playableFBCompile
     - https://www.ifeelgame.net/cocoscreator/%E4%BD%BF%E7%94%A8cocoscreator%E5%88%B6%E4%BD%9Cfacebook%E7%9A%84playable-ad/
+    - https://github.com/fkworld/cocos-to-playable-ad
     - 其他网络资料
 - 改进部分：
     - 支持 cocos creator 到 2.2.0
@@ -13,6 +14,7 @@
     - 脚本src/star.ts中 修改了对引擎库中的物理和骨骼模块的打包问题优化
 - 本项目不包括对图片，声音资源的压缩，需要自行压缩。
 - 本项目不包括使用 cocos creator 打包时的模块选择，需要自行筛选。
+- 本项目是使用npm写的逻辑，用到的npm模块，需要自行使用npm install下载。否则打包失败。
 - 如果使用过程中出现问题，请提交到项目下的 Issues，或者参与论坛讨论，https://forum.cocos.com/t/cocos-creator-web-mobile-playable-ad-html/84260
 
 ## 如何使用？
