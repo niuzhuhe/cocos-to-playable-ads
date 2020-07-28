@@ -7,7 +7,7 @@
     - https://github.com/fkworld/cocos-to-playable-ad
     - 其他网络资料
 - 改进部分：
-    - 支持 cocos creator 到 2.2.0
+    - 支持 cocos creator 最高到 2.3.4。2.4以后的版本，资源加载结构变了，待同步调整
     - 完善了核心算法描述（请参考 README.md）
     - 精简了使用流程，并将游戏项目与打包项目完全分开，游戏项目只需要提供 web-mobile 文件夹即可
     - 使用 node.js 完成，完善了开发环境描述，代码注释
@@ -21,7 +21,7 @@
 - 开发环境：
     - macOs Cataline 10.15
     - node.js 12.9.0
-    - cocos creator 2.2.0
+    - cocos creator 2.3.4
     - Chrome 77
 - 输入：使用 cocos creator 构建出来的 web-mobile 项目文件夹。
 - 输出：index.html。
